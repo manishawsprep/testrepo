@@ -4,3 +4,7 @@ Java Script
 SQL
 TeamCity
 Git & BitBucket
+
+//Addition of Hobbies
+Guitar
+Coin Collection
